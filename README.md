@@ -1,8 +1,8 @@
-# AI Photo Editor
+# Intelligent Photo Editor
 
 An AI-powered photo editing iOS app built with SwiftUI — a hands-on project to explore Vision and Core Image frameworks.
 
-*Read the blog post: [AI Photo Editor](https://www.preeti-chauhan.com/AI-Photo-Editor/)*
+*Read the blog post: [Intelligent Photo Editor](https://www.preeti-chauhan.com/AI-Photo-Editor/)*
 
 ## Features
 
@@ -85,7 +85,7 @@ An AI-powered photo editing iOS app built with SwiftUI — a hands-on project to
 
 1. Clone the repository
 ```bash
-git clone https://github.com/preeti-chauhan/app-01-ai-photo-editor.git
+git clone https://github.com/preeti-chauhan/cv-proto-01-ai-photo-editor.git
 ```
 2. Open `AIPhotoEditor.xcodeproj` in Xcode
 3. Select your target device
