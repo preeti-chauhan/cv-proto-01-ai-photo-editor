@@ -2,7 +2,7 @@
 
 An AI-powered photo editing iOS app built with SwiftUI — a hands-on project to explore Vision and Core Image frameworks.
 
-*Read the blog post: [Intelligent Photo Editor](https://www.preeti-chauhan.com/AI-Photo-Editor/)*
+*Read the blog post: [Intelligent Photo Editor](https://www.preeti-chauhan.com/blog/2026/AI-Photo-Editor/)*
 
 ## Features
 
